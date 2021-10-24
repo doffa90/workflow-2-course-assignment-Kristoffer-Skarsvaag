@@ -1,0 +1,59 @@
+$mainBg: rgb(39, 39, 39);
+$mainH: #f2b705;
+$cardBg: #ece5d2;
+$black: #010000;
+
+body {
+	background-color: $mainBg;
+}
+
+h1 {
+	color: $mainH;
+	background-color: $black;
+	outline-style: solid;
+	outline-width: 5px;
+	border-radius: 10px;
+	text-align: center;
+	font-size: 45px;
+	margin-top: -1px;
+}
+
+h2 {
+	color: $mainH;
+	outline-style: solid;
+	outline-width: 3px;
+	border-radius: 10px;
+	padding: 0.5rem;
+	font-size: 25px;
+	background-color: black;
+	margin: 1px;
+}
+
+h3 {
+	color: $black;
+	text-align: left;
+	margin-left: 5px;
+	font-size: 20px;
+}
+
+h4 {
+	color: $mainH;
+	font-size: 18px;
+	text-align: left;
+	margin-left: 5px;
+}
+
+.card {
+	background-color: $cardBg;
+	text-align: center;
+	width: 450px;
+	float: left;
+	margin: 10px;
+	border-radius: 5px;
+}
+
+p {
+	color: $black;
+	text-align: left;
+	margin-left: 5px;
+}

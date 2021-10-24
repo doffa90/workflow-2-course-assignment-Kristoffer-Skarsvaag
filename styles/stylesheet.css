@@ -1,0 +1,55 @@
+body {
+  background-color: #272727;
+}
+
+h1 {
+  color: #f2b705;
+  background-color: #010000;
+  outline-style: solid;
+  outline-width: 5px;
+  border-radius: 10px;
+  text-align: center;
+  font-size: 45px;
+  margin-top: -1px;
+}
+
+h2 {
+  color: #f2b705;
+  outline-style: solid;
+  outline-width: 3px;
+  border-radius: 10px;
+  padding: 0.5rem;
+  font-size: 25px;
+  background-color: black;
+  margin: 1px;
+}
+
+h3 {
+  color: #010000;
+  text-align: left;
+  margin-left: 5px;
+  font-size: 20px;
+}
+
+h4 {
+  color: #f2b705;
+  font-size: 18px;
+  text-align: left;
+  margin-left: 5px;
+}
+
+.card {
+  background-color: #ece5d2;
+  text-align: center;
+  width: 450px;
+  float: left;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+p {
+  color: #010000;
+  text-align: left;
+  margin-left: 5px;
+}
+/*# sourceMappingURL=stylesheet.css.map */
